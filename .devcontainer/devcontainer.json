@@ -1,0 +1,28 @@
+{
+  "dockerComposeFile": [
+    "docker-compose.yml",
+  ],
+  "service": "auto",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.defaultProfile.windows": "bash",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "editor.bracketPairColorization.enabled": true,
+    "autoDocstring.docstringFormat": "google",
+    "editor.formatOnSave": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "files.autoGuessEncoding": true,
+  },
+  "extensions": [
+    "MS-CEINTL.vscode-language-pack-ja",
+    "donjayamanne.githistory",
+    "ms-azuretools.vscode-docker",
+    "mhutchie.git-graph",
+    "MS-CEINTL.vscode-language-pack-ja",
+    "GitHub.vscode-pull-request-github",
+    "redhat.vscode-yaml",
+    "pkief.material-icon-theme"
+  ],
+  "name": "Cypress auto",
+}
